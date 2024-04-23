@@ -1,14 +1,10 @@
-## Home
-Link of this Page [https://sazzadh.github.io/worklist/](https://sazzadh.github.io/kajabi-guide/)
+### 40 YEARS OF ZEN (WP)
+* [Staging Site](https://40years.dev-site2.com/)
+* Live Site
+* Client: Lumina
+* Completed at May 2024
+* Type: Custom WordPress site Build on Elemontor
+
 
 ### Markdown Documentation
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Site map
-* [Variable](https://sazzadh.github.io/kajabi-guide/variable.html)
-* [Countdown](https://sazzadh.github.io/kajabi-guide/countdown-section.html)
-* [Quick Section Example](https://sazzadh.github.io/kajabi-guide/section-example.html)
-* [Video](https://sazzadh.github.io/kajabi-guide/video.html)
-* [Form](https://sazzadh.github.io/kajabi-guide/form.html)
-* [Backgroun Video](https://sazzadh.github.io/kajabi-guide/background-video.html)
